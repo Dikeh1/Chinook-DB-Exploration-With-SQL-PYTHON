@@ -3,7 +3,7 @@
 
 #### The Chinook database is a sample database that simulates a digital media store and includes various tables that represent a store's structure and data. 
 
-#### ![image2](ch.png)
+#### ![image2](ch.PNG)
 
 #### Key Features of the Chinook Database:
 #### Tables:
@@ -72,7 +72,7 @@ FirstName, LastName, Country, State, TotalRevenue, AvgPurchaseValue and Purchase
 
 ### 1. Top-Selling Artists:
 
-#### ![image](download1.png)
+#### ![image](download1.PNG)
 
 #### Key Insights:
 
@@ -83,7 +83,7 @@ FirstName, LastName, Country, State, TotalRevenue, AvgPurchaseValue and Purchase
     --Deep Purple and Iron Maiden: These artists demonstrate relatively stable revenue levels throughout the period, with minor fluctuations. This might suggest a consistent fan base and steady sales.
     
 
-#### ![image](download2.png)
+#### ![image](download2.PNG)
     
     --Dominant Artists: Iron Maiden and U2 significantly outpace the other artists in terms of revenue generation.
     
@@ -96,7 +96,7 @@ FirstName, LastName, Country, State, TotalRevenue, AvgPurchaseValue and Purchase
         
 ### 2. Customer Purchase Patterns:
 
-#### ![image](download3.png)
+#### ![image](download3.PNG)
 
 #### Key insights:
 
@@ -104,7 +104,7 @@ FirstName, LastName, Country, State, TotalRevenue, AvgPurchaseValue and Purchase
     --Spending Clusters: There might be potential for customer segmentation based on spending levels. Customers can be grouped into high, medium, and low spenders. Customer Loyalty: The top spenders might represent loyal customers with a strong affinity for the brand or products. 
     --Potential for Targeted Marketing: Customers with higher spending might be ideal targets for loyalty programs, exclusive offers, or personalized marketing campaigns.
 
-#### ![image](download4.png)
+#### ![image](download4.PNG)
 
     --Rock Dominance: Customers who prefer Rock music tend to have the highest average purchase value.
 
@@ -114,7 +114,7 @@ FirstName, LastName, Country, State, TotalRevenue, AvgPurchaseValue and Purchase
     
 ### 3. Genre popularity
 
-#### ![image](download6.png)
+#### ![image](download6.PNG)
 
 #### Overall Trend:
 
@@ -135,7 +135,7 @@ Market Targeting: Record labels and music platforms could focus on promoting Alt
 
 ### 4. Sales Trend
 
-#### ![image](download5.png)
+#### ![image](download5.PNG)
 
 Yearly Sales Trends:
 
@@ -175,7 +175,7 @@ The yearly sales trend shows fluctuations with an overall peak in 2010.
 
 ### 5. Customer Lifetime Value (CLV):
 
-#### ![image](download8.png)
+#### ![image](download8.PNG)
 
 
 Key Observations:
@@ -192,7 +192,7 @@ Identify high-value customers: The customers with exceptionally high CLV deserve
 
 Customer segmentation: Dividing customers into segments based on CLV can help in targeted marketing and resource allocation.
 
-#### ![image](download9.png)
+#### ![image](download9.PNG)
 
 #### Czech Republic and USA:
 These countries have a higher median CLV compared to other countries. Additionally, they have a wider range of CLV values, indicating greater variation in customer spending habits.
